@@ -1,6 +1,6 @@
 {
   "rewrites": [
     { "source": "/demo", "destination": "/demo.html" },
-    { "source": "/", "destination": "/Fichaje Rey Del Sahumerio.html" }
+    { "source": "/", "destination": "/Fichaje%20Rey%20Del%20Sahumerio.html" }
   ]
 }
